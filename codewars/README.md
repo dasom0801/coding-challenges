@@ -7,8 +7,8 @@
 ### 7kyu
 + [Find the divisors!](javascript/7kyu/find-the-divisors.js) - [CodeWars](https://www.codewars.com/kata/544aed4c4a30184e960010f4/train/javascript)
 
-##Typescript
+## Typescript
 
 ### 8kyu
-+ [Filter out the geese](typescript) - [CodeWars](https://www.codewars.com/kata/filter-out-the-geese/typescript)
-
++ [Filter out the geese](typescript/8kyu/filter-out-the-geese.ts) - [CodeWars](https://www.codewars.com/kata/filter-out-the-geese/typescript)
++ [Multiply](typescript/8kyu/multiply.ts) - [CodeWars]https://www.codewars.com/kata/multiply/typescript)
