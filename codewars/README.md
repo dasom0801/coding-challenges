@@ -11,4 +11,5 @@
 
 ### 8kyu
 + [Filter out the geese](typescript/8kyu/filter-out-the-geese.ts) - [CodeWars](https://www.codewars.com/kata/filter-out-the-geese/typescript)
-+ [Multiply](typescript/8kyu/multiply.ts) - [CodeWars]https://www.codewars.com/kata/multiply/typescript)
++ [Multiply](typescript/8kyu/multiply.ts) - [CodeWars](https://www.codewars.com/kata/multiply/typescript)
++ [Sum of Positive](typescript/8kyu/sum-of-positive.ts) -[CodeWars](https://www.codewars.com/kata/sum-of-positive/typescript)
