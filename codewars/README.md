@@ -14,3 +14,4 @@
 + [Multiply](typescript/8kyu/multiply.ts) - [CodeWars](https://www.codewars.com/kata/multiply/typescript)
 + [Sum of Positive](typescript/8kyu/sum-of-positive.ts) -[CodeWars](https://www.codewars.com/kata/sum-of-positive/typescript)
 + [A Needle in the Haystack](typescript/8kyu/a-needle-in-the-haystack.ts) -[CodeWars](https://www.codewars.com/kata/a-needle-in-the-haystack/typescript)
++ [Calculate average](typescript/8kyu/calculate-average.ts) -[CodeWars](https://www.codewars.com/kata/calculate-average/typescript)
