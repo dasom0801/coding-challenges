@@ -8,6 +8,8 @@
 + [Find the divisors!](javascript/7kyu/find-the-divisors.js) - [CodeWars](https://www.codewars.com/kata/544aed4c4a30184e960010f4/train/javascript)
 
 ## Typescript
+### 7kyu
++ [Descending Order](typescript/7kyu/descending-order.ts) - [CodeWars](https://www.codewars.com/kata/descending-order/typescript)
 
 ### 8kyu
 + [Filter out the geese](typescript/8kyu/filter-out-the-geese.ts) - [CodeWars](https://www.codewars.com/kata/filter-out-the-geese/typescript)
