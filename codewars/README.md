@@ -11,6 +11,7 @@
 ### 7kyu
 + [Find the divisors!](javascript/7kyu/find-the-divisors.js) - [CodeWars](https://www.codewars.com/kata/544aed4c4a30184e960010f4/train/javascript)
 + [Vowel Count](javascript/7kyu/vowel-count.js) - [CodeWars](https://www.codewars.com/kata/vowel-count/javascript)
++ [Mumbling](javascript/7kyu/mumbling.js) - [CodeWars](https://www.codewars.com/kata/mumbling/train/javascript)
 
 ## Typescript
 ### 7kyu
