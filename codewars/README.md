@@ -8,6 +8,7 @@
 + [Multiples of 3 or 5](javascript/6kyu/multiples-of-3-or-5.js) - [CodeWars](https://www.codewars.com/kata/multiples-of-3-or-5/javascript)
 + [Persistent Bugger](javascript/6kyu/persistent-bugger.js) - [CodeWars](https://www.codewars.com/kata/persistent-bugger/javascript)
 + [Does my number look big in this?](javascript/6kyu/does-my-number-look-big-in-this.js) - [CodeWars](https://www.codewars.com/kata/does-my-number-look-big-in-this/javascript)
++ [Replace With Alphabet Position](javascript/6kyu/replace-with-alphabet-position.js) - [CodeWars](https://www.codewars.com/kata/replace-with-alphabet-position/train/javascript)
 
 ### 7kyu
 + [Find the divisors!](javascript/7kyu/find-the-divisors.js) - [CodeWars](https://www.codewars.com/kata/544aed4c4a30184e960010f4/train/javascript)
