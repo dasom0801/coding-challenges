@@ -10,6 +10,7 @@
 + [Does my number look big in this?](javascript/6kyu/does-my-number-look-big-in-this.js) - [CodeWars](https://www.codewars.com/kata/does-my-number-look-big-in-this/javascript)
 + [Replace With Alphabet Position](javascript/6kyu/replace-with-alphabet-position.js) - [CodeWars](https://www.codewars.com/kata/replace-with-alphabet-position/train/javascript)
 + [Highest Scoring Word](javascript/6kyu/highest-scoring-word.js) - [CodeWars](https://www.codewars.com/kata/highest-scoring-word/javascript)
++ [Sum of Digits / Digital Root](javascript/6kyu/sum-of-digits-digital-root.js) - [CodeWars](https://www.codewars.com/kata/sum-of-digits-slash-digital-root/javascript)
 
 ### 7kyu
 + [Find the divisors!](javascript/7kyu/find-the-divisors.js) - [CodeWars](https://www.codewars.com/kata/544aed4c4a30184e960010f4/train/javascript)
