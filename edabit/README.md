@@ -18,3 +18,4 @@
 + [Transform into an Array with No Duplicates](easy/return-the-index-of-the-first-vowel.js) - [Edabit](https://edabit.com/challenge/Mo6Coy4PpTbZgtDKd)
 + [Spelling it Out](easy/spelling-it-out.js) - [Edabit](https://edabit.com/challenge/Akgh37c6dccEsNBt6)
 + [Omnipresent Value](easy/omnipresent-value.js) - [Edabit](https://edabit.com/challenge/Twbmxzd3JwkkqAWES)
++ [Count Ones in a 2D Array](easy/count-ones-in-a-2D-array.js) - [Edabit](https://edabit.com/challenge/ve7mQnJsjtFep97fm)
