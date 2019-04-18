@@ -11,3 +11,4 @@
 + [Sum of Cubes](easy/sum-of-cubes.js) - [Edabit](https://edabit.com/challenge/XdAR3KohR5w7rjrFg)
 + [Reverse the Case](easy/reverse-the-case.js) - [Edabit](https://edabit.com/challenge/PTvYKkvf7oytHmJFm)
 + [Special Arrays](easy/special-arrays.js) - [Edabit](https://edabit.com/challenge/wikfKaQm3zP7buRA4)
++ [Amplify the Multiples of 4](easy/amplify-the-multiples-of-4.js) - [Edabit](https://edabit.com/challenge/FPHnbisnLwrQFYyAg)
