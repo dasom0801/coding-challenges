@@ -12,3 +12,4 @@
 + [Reverse the Case](easy/reverse-the-case.js) - [Edabit](https://edabit.com/challenge/PTvYKkvf7oytHmJFm)
 + [Special Arrays](easy/special-arrays.js) - [Edabit](https://edabit.com/challenge/wikfKaQm3zP7buRA4)
 + [Amplify the Multiples of 4](easy/amplify-the-multiples-of-4.js) - [Edabit](https://edabit.com/challenge/FPHnbisnLwrQFYyAg)
++ [Index Shuffle](easy/index-shuffle.js) - [Edabit](https://edabit.com/challenge/ATbswTsEaMJb37Ez2)
