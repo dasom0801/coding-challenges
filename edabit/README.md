@@ -14,3 +14,4 @@
 + [Amplify the Multiples of 4](easy/amplify-the-multiples-of-4.js) - [Edabit](https://edabit.com/challenge/FPHnbisnLwrQFYyAg)
 + [Index Shuffle](easy/index-shuffle.js) - [Edabit](https://edabit.com/challenge/ATbswTsEaMJb37Ez2)
 + [Convert to Decimal Notation](easy/convert-to-decimal-notation.js) - [Edabit](https://edabit.com/challenge/4tLabih2cr5Haw7xo)
++ [Return the Index of the First Vowel](easy/return-the-index-of-the-first-vowel.js) - [Edabit]https://edabit.com/challenge/ppBDRwSoqZYcR95Aq)
