@@ -18,6 +18,7 @@
 + [Vowel Count](javascript/7kyu/vowel-count.js) - [CodeWars](https://www.codewars.com/kata/vowel-count/javascript)
 + [Mumbling](javascript/7kyu/mumbling.js) - [CodeWars](https://www.codewars.com/kata/mumbling/train/javascript)
 + [Get the Middle Character](javascript/7kyu/get-the-middle-character.js) - [CodeWars](https://www.codewars.com/kata/get-the-middle-character/javascript)
++ [Disemvowel Trolls](javascript/7kyu/disemvowel-trolls.js) - [CodeWars](https://www.codewars.com/kata/disemvowel-trolls/javascript)
 
 
 ---------------
