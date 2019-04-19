@@ -25,4 +25,5 @@
 + [Reverse Words Starting With a Particular Letter](easy/reverse-words-starting-with-a-particular-letter.js) - [Edabit](https://edabit.com/challenge/KffCqRz23XL5ewbgH)
 + [Total Volume](easy/total-volume.js) - [Edabit](https://edabit.com/challenge/Dq8kbbsLYyG9are5Z)
 + [Transform Upvotes](easy/transform-upvotes.js) - [Edabit](https://edabit.com/challenge/niTEsddTdE4gs4YGX)
++ [Prefixes vs. Suffixes](easy/prefixes-vs-suffixes.js) - [Edabit](https://edabit.com/challenge/pBp7v6zkQvNa9jByh)
 
