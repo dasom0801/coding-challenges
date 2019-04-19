@@ -26,4 +26,5 @@
 + [Total Volume](easy/total-volume.js) - [Edabit](https://edabit.com/challenge/Dq8kbbsLYyG9are5Z)
 + [Transform Upvotes](easy/transform-upvotes.js) - [Edabit](https://edabit.com/challenge/niTEsddTdE4gs4YGX)
 + [Prefixes vs. Suffixes](easy/prefixes-vs-suffixes.js) - [Edabit](https://edabit.com/challenge/pBp7v6zkQvNa9jByh)
++ [Fix the Error: Value vs. Reference Types](easy/fix-the-error-value-vs-reference.js) - [Edabit](https://edabit.com/challenge/3jZyJTfsXTXXwAQkA)
 
