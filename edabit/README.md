@@ -22,4 +22,5 @@
 + [Longest Sequence of Consecutive Zeroes](easy/longest-sequence-of-consecutive-zeroes.js) - [Edabit](https://edabit.com/challenge/5zwzw2AFC95u3ZLtm)
 + [Valid Zip Code](easy/valid-zip-code.js) - [Edabit](https://edabit.com/challenge/Ysk5M8XAscc4fqaAi)
 + [First and Last Index](easy/first-and-last-index.js) - [Edabit](https://edabit.com/challenge/AYpxyzbnbS7BGSgvd)
++ [Reverse Words Starting With a Particular Letter](easy/reverse-words-starting-with-a-particular-letter.js) - [Edabit](https://edabit.com/challenge/KffCqRz23XL5ewbgH)
 
