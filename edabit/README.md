@@ -28,4 +28,5 @@
 + [Transform Upvotes](easy/transform-upvotes.js) - [Edabit](https://edabit.com/challenge/niTEsddTdE4gs4YGX)
 + [Prefixes vs. Suffixes](easy/prefixes-vs-suffixes.js) - [Edabit](https://edabit.com/challenge/pBp7v6zkQvNa9jByh)
 + [Fix the Error: Value vs. Reference Types](easy/fix-the-error-value-vs-reference.js) - [Edabit](https://edabit.com/challenge/3jZyJTfsXTXXwAQkA)
++ [Sum of all Evens in a Matrix](easy/sum-of-all-evens-in-a-matrix.js) - [Edabit](https://edabit.com/challenge/yiMSg6cNNCeJDQo3b)
 
