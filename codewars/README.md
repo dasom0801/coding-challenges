@@ -12,6 +12,7 @@
 + [Highest Scoring Word](javascript/6kyu/highest-scoring-word.js) - [CodeWars](https://www.codewars.com/kata/highest-scoring-word/javascript)
 + [Sum of Digits / Digital Root](javascript/6kyu/sum-of-digits-digital-root.js) - [CodeWars](https://www.codewars.com/kata/sum-of-digits-slash-digital-root/javascript)
 + [Count characters in your string](javascript/6kyu/count-characters-in-your-string.js) - [CodeWars](https://www.codewars.com/kata/count-characters-in-your-string/javascript)
++ [Your order, please](javascript/6kyu/your-order-please.js) - [CodeWars](https://www.codewars.com/kata/your-order-please/javascript)
 
 ### 7kyu
 + [Find the divisors!](javascript/7kyu/find-the-divisors.js) - [CodeWars](https://www.codewars.com/kata/544aed4c4a30184e960010f4/train/javascript)
