@@ -32,5 +32,6 @@
 + [Hashes and Pluses](easy/hashes-and-pluses.js) - [Edabit](https://edabit.com/challenge/ydBcGvv3n447nbxCy)
 + [Alternating Ones and Zeroes](easy/alternating-ones-and-zeroes.js) - [Edabit](https://edabit.com/challenge/XHzuvkGKGy7pB73ZE)
 + [Factorize a Number](easy/factorize-a-number.js) - [Edabit](https://edabit.com/challenge/zLYbAPk8NMnwoPhjG)
++ [Filter Repeating Character Strings](easy/filter-repeating-character-strings.js) - [Edabit](https://edabit.com/challenge/fxvceQdv7RHQzrx2J)
 
 
