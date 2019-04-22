@@ -31,5 +31,6 @@
 + [Sum of all Evens in a Matrix](easy/sum-of-all-evens-in-a-matrix.js) - [Edabit](https://edabit.com/challenge/yiMSg6cNNCeJDQo3b)
 + [Hashes and Pluses](easy/hashes-and-pluses.js) - [Edabit](https://edabit.com/challenge/ydBcGvv3n447nbxCy)
 + [Alternating Ones and Zeroes](easy/alternating-ones-and-zeroes.js) - [Edabit](https://edabit.com/challenge/XHzuvkGKGy7pB73ZE)
++ [Factorize a Number](easy/factorize-a-number.js) - [Edabit](https://edabit.com/challenge/zLYbAPk8NMnwoPhjG)
 
 
