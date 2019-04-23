@@ -1,11 +1,5 @@
 # edabit
 
-### Very Easy
-+ [Return the Remainder from Two Numbers](very-easy/remainder.js) - [Edabit](https://edabit.com/challenge/Q2j5FTFtsk7PdzrQk)
-+ [Concatenate First and Last Name into One String](very-easy/concat-name.js) - [Edabit](https://edabit.com/challenge/RQwdZmtrW8mCnuCMN)
-+ [Count Syllables](very-easy/count-syllables.js) - [Edabit](https://edabit.com/challenge/RPBqWjEa7iyo9p54F)
-+ [Difference of Max and Min Numbers in Array](very-easy/difference-of-max-and-min-numbers-in-array.js) - [Edabit](https://edabit.com/challenge/FsxxkqGi7uepZ4g59)
-
 ### Easy
 + [Secret Society](easy/secret-society.js) - [Edabit](https://edabit.com/challenge/zQm9YZTTFPhNtYjDr)
 + [Largest Swap](easy/largest-swap.js) - [Edabit](https://edabit.com/challenge/hD3euqPHM82Cbr7R8)
@@ -34,5 +28,14 @@
 + [Factorize a Number](easy/factorize-a-number.js) - [Edabit](https://edabit.com/challenge/zLYbAPk8NMnwoPhjG)
 + [Filter Repeating Character Strings](easy/filter-repeating-character-strings.js) - [Edabit](https://edabit.com/challenge/fxvceQdv7RHQzrx2J)
 + [Capitalize by ASCII](easy/capitalize-by-ASCII.js) - [Edabit](https://edabit.com/challenge/KPENunE3uhBcmSQ7C)
++ [GCD of Two Numbers](easy/GCD-of-two-numbers.js) - [Edabit](https://edabit.com/challenge/3HPSLLjh8Go5QPq3C)
+
+### Very Easy
++ [Return the Remainder from Two Numbers](very-easy/remainder.js) - [Edabit](https://edabit.com/challenge/Q2j5FTFtsk7PdzrQk)
++ [Concatenate First and Last Name into One String](very-easy/concat-name.js) - [Edabit](https://edabit.com/challenge/RQwdZmtrW8mCnuCMN)
++ [Count Syllables](very-easy/count-syllables.js) - [Edabit](https://edabit.com/challenge/RPBqWjEa7iyo9p54F)
++ [Difference of Max and Min Numbers in Array](very-easy/difference-of-max-and-min-numbers-in-array.js) - [Edabit](https://edabit.com/challenge/FsxxkqGi7uepZ4g59)
+
+
 
 
