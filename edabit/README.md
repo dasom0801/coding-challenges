@@ -33,5 +33,6 @@
 + [Alternating Ones and Zeroes](easy/alternating-ones-and-zeroes.js) - [Edabit](https://edabit.com/challenge/XHzuvkGKGy7pB73ZE)
 + [Factorize a Number](easy/factorize-a-number.js) - [Edabit](https://edabit.com/challenge/zLYbAPk8NMnwoPhjG)
 + [Filter Repeating Character Strings](easy/filter-repeating-character-strings.js) - [Edabit](https://edabit.com/challenge/fxvceQdv7RHQzrx2J)
++ [Capitalize by ASCII](easy/capitalize-by-ASCII.js) - [Edabit](https://edabit.com/challenge/KPENunE3uhBcmSQ7C)
 
 
