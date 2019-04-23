@@ -29,6 +29,7 @@
 + [Filter Repeating Character Strings](easy/filter-repeating-character-strings.js) - [Edabit](https://edabit.com/challenge/fxvceQdv7RHQzrx2J)
 + [Capitalize by ASCII](easy/capitalize-by-ASCII.js) - [Edabit](https://edabit.com/challenge/KPENunE3uhBcmSQ7C)
 + [GCD of Two Numbers](easy/GCD-of-two-numbers.js) - [Edabit](https://edabit.com/challenge/3HPSLLjh8Go5QPq3C)
++ [Scrabble Hand](easy/scrabble-hand.js) - [Edabit](https://edabit.com/challenge/i6YqzHcSiPiEQKjeX)
 
 ### Very Easy
 + [Return the Remainder from Two Numbers](very-easy/remainder.js) - [Edabit](https://edabit.com/challenge/Q2j5FTFtsk7PdzrQk)
